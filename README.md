@@ -9,7 +9,8 @@ My name's Denis Mushits and i'm a Back-end developer
 Python 3 / SQL / HTML / CSS / DJANGO / DJANGO REST FRAMEWORK / DOCKER / PYTHONTELEGRAM-BOT / SQLITE / POSTGRESQL / NGINX /  GUNICORN / LINUX / REST API / JSON / BOOTSTRAP / UNITTEST / GIT
 
 ----
-Contacts
+#### Contacts
+
 Mail: mushitsdv@gmail.com
 
 Telegram: https://t.me/Atayohkan
