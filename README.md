@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/Innis8/innis8/main/cover_image.jpg)
+Hi! 👋 
+My name's Denis Mushits and i'm a Back-end developer
 
-<!--
-**Innis8/innis8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+#### Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python 3 / SQL / HTML / CSS / DJANGO / DJANGO REST FRAMEWORK / DOCKER / PYTHONTELEGRAM-BOT / SQLITE / POSTGRESQL / NGINX /  GUNICORN / LINUX / REST API / JSON / BOOTSTRAP / UNITTEST / GIT
+
+----
+Contacts
+Mail: mushitsdv@gmail.com
+
+Telegram: https://t.me/Atayohkan
